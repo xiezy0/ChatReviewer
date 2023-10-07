@@ -3,7 +3,7 @@ Please briefly summarize the main points and contributions of this paper.
 xxx
 
 * Paper Strength
-Summarize the three advantages of the paper, each in one word:
+Summarize the 3 advantages of the paper, each in one word:
 (1) x
 (2) x
 (3) x
@@ -15,15 +15,21 @@ Please provide a list of the strengths of this paper, including but not limited 
 ...
 
 * Paper Weakness
-Summarize the three disadvantages of the paper, each in one word:
+Summarize the 6 disadvantages of the paper, each in one word:
 (1) x
 (2) x
 (3) x
+(4) x
+(5) x
+(6) x
 
-Please provide a numbered list of your main concerns regarding this paper (so authors could respond to the concerns individually). These may include, but are not limited to: inadequate implementation details for reproducing the study, limited evaluation and ablation studies for the proposed method, correctness of the theoretical analysis or experimental results, lack of comparisons or discussions with widely-known baselines in the field, lack of clarity in exposition, or any other factors that may impede the reader's understanding or benefit from the paper. Please kindly refrain from providing a general assessment of the paper's novelty without providing detailed explanations. (Maximum length: 2,000 characters) 
+Please provide a numbered list of your main concerns regarding this paper (so authors could respond to the concerns individually). Here, based on your understanding of the specific content in this field, please provide a concise summary of the academic drawbacks of the paper, reflecting specific content analysis. And give a detailed explanation why this is so, and discuss in detail whether the solution proposed by the author can be justified (Maximum length: 8,000 characters)
 (1) xxx
 (2) xxx
 (3) xxx
+(4) xxx
+(5) xxx
+(6) xxx
 ...
 
 *Overall score (1-10)
