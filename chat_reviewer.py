@@ -118,6 +118,7 @@ class Reviewer:
             input_text_index = int(len(text)*((self.max_token_num/2)-800)/text_token)
             text = text[:input_text_index]
         openai.api_key = self.chat_api_list[self.cur_api]
+        openai.api_base = "https://ai-yyds.com/v1"
         self.cur_api += 1
         self.cur_api = 0 if self.cur_api >= len(self.chat_api_list)-1 else self.cur_api
         messages = [
